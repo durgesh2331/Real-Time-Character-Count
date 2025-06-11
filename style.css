@@ -1,0 +1,64 @@
+*{
+    margin:0;
+}
+.header{
+    height:50px;
+    background-color: black;
+
+}
+
+.box{
+    background-color: rgb(222, 167, 157);
+    min-height: 470px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.card{
+    height: 160px;
+    width: 230px;
+    background-color: rgba(204, 228, 219, 0.158);
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px;
+    display: flex;
+    flex-direction:column;
+    justify-content:flex-end;
+   
+}
+.realTime{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-top:30px;
+    font-weight:bold;
+    padding: 10px;
+
+    
+}
+.input-1{
+    height:50px;
+    width:220px;
+    margin-top:10px;
+    border:0px solid black;
+
+}
+.totalCard{
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+  
+
+}
+.total{
+    font-size:14px;
+}
+.gray{
+color: rgb(63, 65, 67);
+}
+.pink{
+    color: rgb(63, 65, 67);
+}
+#min{
+    color: rgb(199, 97, 29);
+
+}
