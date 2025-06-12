@@ -62,3 +62,10 @@ color: rgb(63, 65, 67);
     color: rgb(199, 97, 29);
 
 }
+
+#input-text {
+    width: 230px;   
+    height: 100px;  
+    resize: none;   
+  }
+  
